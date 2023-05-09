@@ -14,7 +14,7 @@ currently under construction
 
 
 
-some requirements got from reddit(which originally are from Dmitri's YouTube channel):
+some requirements got from Reddit(which originally are from Dmitri's YouTube channel):
 
 
 ![대체 텍스트](https://github.com/wolfinwallst/Financial_Engineering_and_Risk_Management/blob/main/1.webp)
